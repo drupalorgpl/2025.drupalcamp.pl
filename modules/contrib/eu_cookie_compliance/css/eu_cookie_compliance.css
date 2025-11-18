@@ -1,5 +1,5 @@
 #sliding-popup {
-  background: url('../images/gradient.png') center center scroll repeat-y transparent;
+  background: url('/modules/contrib/eu_cookie_compliance/images/gradient.png') center center scroll repeat-y transparent;
 }
 
 .sliding-popup-bottom,
@@ -225,7 +225,7 @@
 }
 
 .eu-cookie-compliance-close-button {
-  background: url('../images/close.png');
+  background: url('/modules/contrib/eu_cookie_compliance/images/close.png');
   width: 24px;
   height: 24px;
   border-width: 0;

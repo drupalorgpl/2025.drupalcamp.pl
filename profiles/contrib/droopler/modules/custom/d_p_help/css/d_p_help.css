@@ -1,5 +1,5 @@
 .toolbar-icon-droopler-support:before,
 .toolbar-icon-droopler-support:active:before,
 .toolbar-icon-droopler-support.is-active:before {
-  background-image: url('droopler.svg');
+  background-image: url('/profiles/contrib/droopler/modules/custom/d_p_help/css/droopler.svg');
 }
